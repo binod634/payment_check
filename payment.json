@@ -1,8 +1,8 @@
 {
 	"nrcs": {
-		"paid": false
+		"paid": true
 	},
 	"bucci": {
-		"paid": false
+		"paid": true
 	}
 }
